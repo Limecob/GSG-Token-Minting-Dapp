@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC7d9c8684078A1fc971c9E68DFCCC9cA2C077eeF",
+  "SCAN_LINK": "https://etherscan.io/address/0xC7d9c8684078A1fc971c9E68DFCCC9cA2C077eeF",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 1
+  },
+  "NFT_NAME": "Gunslinger Gang",
+  "SYMBOL": "GSG",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gunslinger-gang",
+  "SHOW_BACKGROUND": true
+}
